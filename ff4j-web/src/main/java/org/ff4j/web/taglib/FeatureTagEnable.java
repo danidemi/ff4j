@@ -30,7 +30,7 @@ import org.ff4j.core.FlippingExecutionContext;
  * <pre>
  * &lt;ff4j:enable featureid="mercure-desc"&gt;
  * here your html code
- *  &lt;/ff4j:enable@gt;
+ *  &lt;/ff4j:enable&gt;
  * 
  * @author <a href="mailto:cedrick.lunven@gmail.com">Cedrick LUNVEN</a>
  */
